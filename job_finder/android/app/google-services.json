@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006831584516",
+    "project_id": "job-finder-adeeb",
+    "storage_bucket": "job-finder-adeeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006831584516:android:9bf505d86913c72fbfbc51",
+        "android_client_info": {
+          "package_name": "com.example.job_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ADML9Op75jBuWb_ikV88mtSxIaLhOKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
